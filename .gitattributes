@@ -1,0 +1,4 @@
+# Không đưa thư mục src và file cấu hình vào file zip release
+src/ export-ignore
+*.log export-ignore
+.env export-ignore
